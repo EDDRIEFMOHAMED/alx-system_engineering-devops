@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'yes we can do it'
+telnet towel.blinkenlights.nl
